@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "title": "Firexcol CO",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea nulla inventore repellat repellendus mollitia reiciendis ipsa veniam explicabo quasi. Tempore autem suscipit voluptatem incidunt dolore perferendis commodi nobis laboriosam cupiditate sit quia assumenda odio dolores illum ducimus voluptas sunt modi, optio odit iste consequatur amet obcaecati, quasi praesentium. Assumenda, vero.",
+      "image": "images/fingerprint.svg"
+    },
+    {
+      "title": "Text Analitycs",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea nulla inventore repellat repellendus mollitia reiciendis ipsa veniam explicabo quasi. Tempore autem suscipit voluptatem incidunt dolore perferendis commodi nobis laboriosam cupiditate sit quia assumenda odio dolores illum ducimus voluptas sunt modi, optio odit iste consequatur amet obcaecati, quasi praesentium. Assumenda, vero.",
+      "image": "images/fingerprint.svg"
+    },
+    {
+      "title": "Vaas CO",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea nulla inventore repellat repellendus mollitia reiciendis ipsa veniam explicabo quasi. Tempore autem suscipit voluptatem incidunt dolore perferendis commodi nobis laboriosam cupiditate sit quia assumenda odio dolores illum ducimus voluptas sunt modi, optio odit iste consequatur amet obcaecati, quasi praesentium. Assumenda, vero.",
+      "image": "images/fingerprint.svg"
+    }
+  ]
+}
